@@ -8,3 +8,6 @@ If you don't have valid 4Dem user create your own for free. Please visit www.4de
 1. Copy class file on your server and include in your code
 2. Create a valid APIKey within your 4Dem console
 3. Init object and enjoy!
+
+## API Documentation
+For complete API documentation visit api.4dem.it
